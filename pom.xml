@@ -16,6 +16,14 @@
             <artifactId>QLExpress</artifactId>
             <version>3.2.0</version>
         </dependency>
+
+        <!-- https://mvnrepository.com/artifact/org.nutz/nutz -->
+        <dependency>
+            <groupId>org.nutz</groupId>
+            <artifactId>nutz</artifactId>
+            <version>1.r.67</version>
+        </dependency>
+
     </dependencies>
 
     
